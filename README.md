@@ -11,10 +11,10 @@ Introductory course on Transformers and Large Language Models
 
 ### Module 2: Preprocessing and Cleaning Text Data
 
-1. Identifying and handling missing data
+1. Introduction to NLP Python Libraries: NLTK and Spacy
 1. Text normalization techniques (lowercasing, stemming, lemmatization)
 1. Removing stop words and punctuations
-1. Text vectorization techniques (one-hot encoding, word embeddings)
+1. The vector space model and text vectorization techniques (one-hot encoding, word embeddings)
 
 ### Module 3: Fine-Tuning Pretrained Transformer Models
 
@@ -33,7 +33,7 @@ Introductory course on Transformers and Large Language Models
 ### Module 5: Project Work and Conclusion
 
 1. Final project: students will work on a real-world NLP task using the techniques and tools learned in the course
-1. Course conclusion and future directions in NLP and Transformer research
+1. Course conclusion with final project presentations and future directions in NLP and Transformer research
 
 ### References:
 
